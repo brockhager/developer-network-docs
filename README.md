@@ -22,6 +22,5 @@ Welcome to the Developer Network documentation hub. This site provides comprehen
 
 ### 🚀 Coming Soon
 
-* Technical Architecture Document (TAD)
 * Platform Features Overview
 * Developer Onboarding Guide
