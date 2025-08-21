@@ -4,4 +4,4 @@
 >
 > **Example** **2**: Customers in the USA are limited to the talent inside the country. They must navigate strict immigration laws to access skilled developers with the expertise they need. This creates inefficiencies and limits innovation.
 >
-> test
+>
