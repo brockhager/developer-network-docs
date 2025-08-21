@@ -43,4 +43,4 @@
   * [🔄 User Flow Implementation](technical-architecture-document-tad/user-flow-implementation.md)
   * [📋 Implementation Roadmap & Deployment Strategy](technical-architecture-document-tad/implementation-roadmap-and-deployment-strategy.md)
   * [📝 Conclusion & Next Steps](technical-architecture-document-tad/conclusion-and-next-steps.md)
-* [Whitepaper](whitepaper.md)
+* [Developer Network Whitepaper](developer-network-whitepaper.md)
