@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Product Requirements Document (PRD)](README.md)
+* [Developer Network Documentation](README.md)
+* [Product Requirements Document (PRD)](<README (1).md>)
   * [📋 Executive Summary](product-requirements-document-prd/executive-summary.md)
   * [🎯 Problem Statement](product-requirements-document-prd/problem-statement.md)
   * [👥 Target Users & Personas](product-requirements-document-prd/target-users-and-personas.md)
