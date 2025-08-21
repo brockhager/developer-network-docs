@@ -8,11 +8,17 @@ Welcome to the Developer Network documentation hub. This site provides comprehen
 * 1.2 Overview
 * 1.3 Problem Statement
 
+
+
+### 🚀 Technical Architecture Document (TAD)
+
+* Coming Soon
+
 ### 🌍 Global Work Inequality and the Developer Network
 
-* 2.1 Definition
-* 2.2 Developer Network Mission
-* 2.3 Design Principles
+* 3.1 Definition
+* 3.2 Developer Network Mission
+* 3.3 Design Principles
 
 ### 🚀 Coming Soon
 
